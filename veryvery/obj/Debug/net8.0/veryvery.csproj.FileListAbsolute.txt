@@ -1,0 +1,15 @@
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\bin\Debug\net8.0\veryvery.exe
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\bin\Debug\net8.0\veryvery.deps.json
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\bin\Debug\net8.0\veryvery.runtimeconfig.json
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\bin\Debug\net8.0\veryvery.dll
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\bin\Debug\net8.0\veryvery.pdb
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\veryvery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\veryvery.AssemblyInfoInputs.cache
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\veryvery.AssemblyInfo.cs
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\veryvery.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\veryvery.sourcelink.json
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\veryvery.dll
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\refint\veryvery.dll
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\veryvery.pdb
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\veryvery.genruntimeconfig.cache
+C:\Users\aaa\Documents\repo\school-topic-4-assignment\veryvery\obj\Debug\net8.0\ref\veryvery.dll
