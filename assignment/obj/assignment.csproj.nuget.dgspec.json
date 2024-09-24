@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\veryvery\\veryvery.csproj": {}
+    "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\assignment\\assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\veryvery\\veryvery.csproj": {
+    "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\assignment\\assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\veryvery\\veryvery.csproj",
-        "projectName": "veryvery",
-        "projectPath": "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\veryvery\\veryvery.csproj",
+        "projectUniqueName": "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\assignment\\assignment.csproj",
+        "projectName": "assignment",
+        "projectPath": "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\assignment\\assignment.csproj",
         "packagesPath": "C:\\Users\\339744427\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\veryvery\\obj\\",
+        "outputPath": "C:\\Users\\339744427\\Desktop\\school-topic-4-assignment-1\\assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

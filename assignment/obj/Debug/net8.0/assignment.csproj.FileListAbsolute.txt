@@ -1,0 +1,15 @@
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\bin\Debug\net8.0\assignment.exe
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\bin\Debug\net8.0\assignment.deps.json
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\bin\Debug\net8.0\assignment.runtimeconfig.json
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\bin\Debug\net8.0\assignment.dll
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\bin\Debug\net8.0\assignment.pdb
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\assignment.AssemblyInfoInputs.cache
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\assignment.AssemblyInfo.cs
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\assignment.sourcelink.json
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\assignment.dll
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\refint\assignment.dll
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\assignment.pdb
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\assignment.genruntimeconfig.cache
+C:\Users\339744427\Desktop\school-topic-4-assignment-1\assignment\obj\Debug\net8.0\ref\assignment.dll
